@@ -1,0 +1,5 @@
+body {
+    background: url('img.png') top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
